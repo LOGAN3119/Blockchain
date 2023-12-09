@@ -1,7 +1,7 @@
 App = {
     web3Provider: null,
     contracts: {},
-    address: "0x849EAAE44a671A8c5B80FCdc3a0F84c0A7ea12a9",
+    address: "0x2F3b1F71DFAc65e670912e5D935c0c5D2CaB651c",
     url: 'http://127.0.0.1:7545',
     init: async function() {
         return await App.initWeb3();
